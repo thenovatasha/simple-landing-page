@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;    
+}
+.introduction {
+    background-color: #1f2937;
+    flex: 1;
+    color: white;
+}
+.content-one {
+    flex: 1;
+
+}
+
+.content-two {
+    background-color: #e5e7eb;
+    flex: 1;
+}
+.content-three {
+flex: 1;
+}
+
+footer {
+    background-color: #1f2937;
+    flex: 1;
+}
