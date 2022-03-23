@@ -16,6 +16,7 @@ p, h1, h2, h5 {
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Roboto', sans-serif;
     
 }
 
@@ -135,6 +136,7 @@ h1 {
 }
 .tile-right {
     background-color: #E5E7EB;
+    border-radius: 20px;
 }
 .introduction {
     padding: 20px 0px;
